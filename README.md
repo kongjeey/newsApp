@@ -1,6 +1,8 @@
 # NewsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
+All code credit goes to https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/#setting-up-an-angular-project
+API key from: https://newsapi.org/
 
 ## Development server
 
